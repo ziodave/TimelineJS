@@ -30,9 +30,18 @@
   },
   "license": "MPL v2.0",
   "ignore": [
-    "**/.*",
     "examples",
+    "source",
     "tests",
-    "website"
+    "website",
+    ".gitignore",
+    ".gitmodules",
+    "CHANGELOG",
+    "DEVELOPER.md",
+    "README.markdown",
+    "codekit-config.json",
+    "config.json",
+    "fabfile.py",
+    "requirements.txt",
   ]
 }
