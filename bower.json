@@ -42,6 +42,6 @@
     "codekit-config.json",
     "config.json",
     "fabfile.py",
-    "requirements.txt",
+    "requirements.txt"
   ]
 }
